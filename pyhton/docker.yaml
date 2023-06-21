@@ -1,0 +1,5 @@
+From python:3.9
+WORKDIR /pyhton
+COPY . /pyhton
+Run pip install -r requirement.txt
+CMD python ./main.py

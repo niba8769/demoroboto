@@ -1,0 +1,8 @@
+robotframework
+robotframework-requests
+robotframework-seleniumlibrary
+xvfbwrapper
+robotframework-xvfb
+poetry
+pyyaml
+lxml
