@@ -3,7 +3,7 @@ pipeline {
         node {
             label 'jenkins-agent'
             }
-      }
+        }
     
    stages {
         stage('Checkout') {
@@ -30,5 +30,5 @@ pipeline {
                 '''
             }
         }
-    }
+    
 }
